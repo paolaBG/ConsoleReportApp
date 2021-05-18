@@ -1,0 +1,4 @@
+Result
+Name, Score
+John Smith, 25
+David Prowless, 25
